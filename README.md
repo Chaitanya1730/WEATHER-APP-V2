@@ -62,15 +62,3 @@ Local Time: 17:30 | Date: 15 July 2025
 This project is open-source for learning and awareness purposes.
 
 ---
-
-### ✅ What to do now:
-
-1. Click the ✏️ pencil icon on your current `README.md` file.
-2. **Select all** current content and **replace** it with the above full README.
-3. Scroll down → Write a commit message like:
-   > `Updated README with full project description`
-4. ✅ Click **“Commit changes”**
-
----
-
-Once done, your GitHub project will look **professional and complete**. Let me know when you finish — I’ll help you write your GitHub project summary too (for the top right “About” section)!
